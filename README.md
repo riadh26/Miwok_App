@@ -1,8 +1,13 @@
-# Miwok_Riadh
-Miwok App by Riadh Laabidi
+# Miwok App
 
-<b>min sdk version 15<b>
+This app displays lists of vocabulary words for the user to learn the Miwok language. Used in a Udacity course in the Beginning Android Nanodegree.
 
-<b>compileSdkVersion 26<b>
+## Pre-requisites
 
-<b>targetSdkVersion 26<b>
+- Android SDK v26
+
+(min sdk version : 15  | compileSdkVersion : 26  | targetSdkVersion : 26)
+
+## Getting Started
+
+This sample uses the Gradle build system. To build this project, use the "gradlew build" command or use "Import Project" in Android Studio.

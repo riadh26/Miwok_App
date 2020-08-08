@@ -1,6 +1,6 @@
 # Miwok App
 
-This app displays lists of vocabulary words for the user to learn the Miwok language. Used in a Udacity course in the Beginning Android Nanodegree.
+This app displays lists of vocabulary words and their translation in english to help users learn the Miwok language. this project was made during the Android Developer track of the 1 Million Arab Coders Initiative at Udacity.
 
 ## Pre-requisites
 
